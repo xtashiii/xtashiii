@@ -3,8 +3,8 @@
   <img  height=50 src="https://imagensfree.com.br/wp-content/uploads/2022/11/bandeira-do-brasil-preta-a4.png" />
 </div>
 
- 
 <br />
+<hr/>
 
 <div>
   <h2>STATS</h2>
@@ -17,7 +17,7 @@
 </div>
 
 <br />
-
+<hr />
 
 <div flex gap=40>
   <h2>LANGUAGES AND FRAMEWORKS</h2>
