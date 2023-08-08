@@ -6,7 +6,7 @@
  
 <br />
 
-<div align=center>
+<div>
   <h2>STATS</h2>
   <a href="https://github.com/xtashiiii/xtashiii">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtashiii&layout=compact&theme=neon" />
