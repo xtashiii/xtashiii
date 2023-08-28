@@ -1,10 +1,8 @@
 <div align=center>
-  <h1 align=center>XTASHIII ー タシ</h1>
-  <img  height=50 src="https://imagensfree.com.br/wp-content/uploads/2022/11/bandeira-do-brasil-preta-a4.png" />
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=800&size=24&duration=3000&pause=500&color=F7E915&center=true&vCenter=true&width=500&lines=XTASHIII+%E3%82%BF%E3%82%B7)](https://git.io/typing-svg)
+  
 </div>
-
-<br />
-<hr/>
 
 <div>
   <h2>STATS</h2>
