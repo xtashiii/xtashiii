@@ -22,3 +22,19 @@
 <h2>frontend & backend</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,css,html,react,nextjs,tailwind)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,nestjs,figma)](https://skillicons.dev)
+
+<hr>
+
+<h1>social</h1>
+
+
+<div align=center>
+
+  ![social](https://skillicons.dev/icons?i=discord)
+  <p>
+    
+    xtashiii
+    
+  </p>  
+</div>
+
