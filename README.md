@@ -32,7 +32,7 @@
 
 <hr>
 
-> [LEARN TRACKER - 09/23]
+> [LEARNING TRACK - 09/23]
 > <p><strong>backend</strong></p>
 
 <br>
