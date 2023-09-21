@@ -8,14 +8,46 @@
 <br />
 
 
-<h2>web dev | frontend & backend</h2>
+<h1>web dev | fullstack</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,css,html,react,nextjs,tailwind)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,nestjs,figma)](https://skillicons.dev)
+
+
+<div align=center>
+  
+  <p>Frontend</p>
+    
+   [![My Skills](https://skillicons.dev/icons?i=js,typescript,css,html,react,nextjs,tailwind,figma)](https://skillicons.dev)
+
+  
+  
+</div>
+<div align=center>
+  
+  <p>Backend</p>
+    
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,prisma,postgres,nestjs,)](https://skillicons.dev)
+   
+</div>
+
 
 <hr>
 
-<h1>social</h1>
+> [LEARN TRACKER - 09/23]
+> <p><strong>backend</strong></p>
 
+<br>
+
+- [x] prisma ORM
+- [x] OOP
+- [x] Nest
+- [ ] Docker
+- [ ] Solid
+- [ ] JWT
+
+<hr>
+<br>
+
+<h1>social</h1>
 
 <div align=center>
 
