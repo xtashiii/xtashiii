@@ -8,27 +8,65 @@
 <br />
 
 
-<h1>web dev | fullstack</h1>
+<h1>web development | fullstack</h1>
 
 
 
-<div align=center>
-  
-  <p>Frontend</p>
-    
-   [![My Skills](https://skillicons.dev/icons?i=js,typescript,css,html,react,nextjs,tailwind,figma)](https://skillicons.dev)
+<table align="center">  
+  <tr>
+    <td align="center" width="80">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
+      <br>Javascript
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="70" height="60" />
+      <br>HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="70" height="60" />
+      <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="70" height="60" />
+      <br>Tailwind
+    </td>  
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="70" height="60" />
+      <br>Nextjs
+    </td>
+ </tr>
 
-  
-  
-</div>
-<div align=center>
-  
-  <p>Backend</p>
-    
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,prisma,postgres,nestjs,)](https://skillicons.dev)
-   
-</div>
-
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" />
+      <br>Typescript
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="70" height="70" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="70" height="70" />
+      <br>Express
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="70" height="70" />
+      <br>Postgres
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="70" height="70" />
+      <br>Prisma
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="70" height="70" />
+      <br>Nestjs
+    </td>    
+  </tr>
+</table>
 
 <hr>
 
