@@ -69,20 +69,6 @@
 </table>
 
 <hr>
-
-> [LEARNING TRACK - 09/23]
-> <p><strong>backend</strong></p>
-
-<br>
-
-- [x] prisma ORM
-- [x] OOP
-- [x] Nest
-- [ ] Docker
-- [ ] Solid
-- [ ] JWT
-
-<hr>
 <br>
 
 <h1>social</h1>
