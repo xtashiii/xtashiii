@@ -4,6 +4,11 @@
   <p>Promise&lt;void&gt;</p>
 </div>
 
+<div align=center>
+  <img src="https://makesweet.com/f/6/b/b/6bb0f804-0a15-443d-b531-ba05d68433ea.gif">  
+</div>
+
+<br>
 
 <div align=center>
 
