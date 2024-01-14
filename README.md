@@ -5,14 +5,3 @@
 </div>
 
 <br>
-
-<div align=center>
-
-  ![social](https://skillicons.dev/icons?i=discord)
-  <p>
-    
-    xtashiii
-    
-  </p>  
-</div>
-
